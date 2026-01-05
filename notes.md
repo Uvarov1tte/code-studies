@@ -1,4 +1,5 @@
 # useful libraries
+- [pnpm](https://pnpm.io/): alternative to npm
 - [clsx](https://www.npmjs.com/package/clsx): utility for constructing className strings conditionally
 - [gray-matter](https://www.npmjs.com/package/gray-matter): parse info from a string or file. *see the nextjs example for parsing md files*
 - [remark](https://github.com/remarkjs/remark): render markdown
